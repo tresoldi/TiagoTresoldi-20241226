@@ -1,0 +1,13 @@
+fastparquet
+jupyterlab
+matplotlib
+notebook
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+seaborn
+shap
+tabulate
+imbalanced-learn
